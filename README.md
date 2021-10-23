@@ -2,7 +2,7 @@
 - 👀 I’m interested in remote sensing. 
 - ✨ My master dissertation was about the error analysis of InSAR-derived DEMs.
 - 🌱 I graduated from Center for Space and Remote Sensing Research (CSRSR) in 2021. 
-- 💞️ I wish to continue my career in remote sensing field, either a PhD or a research assistant.
+- 💞️ I dedicate to continuing my career in remote sensing field.
 - 📫 My personal website: https://yenyiwu.wordpress.com/
 
 <!---
