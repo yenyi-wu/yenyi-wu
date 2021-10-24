@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yenyi-wu
-- 👀 I’m interested in remote sensing. 
+- 👀 I’m interested in remote sensing, data science, and geospatial data analysis. 
 - ✨ My master dissertation was about the error analysis of InSAR-derived DEMs.
 - 🌱 I graduated from Center for Space and Remote Sensing Research (CSRSR) in 2021. 
-- 💞️ I dedicate to continuing my career in remote sensing field.
+- 💞️ I am always keen on learning new tools and technologies and sharing knowledge with everyone.
 - 📫 My personal website: https://yenyiwu.wordpress.com/
 
 <!---
